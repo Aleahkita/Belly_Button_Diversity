@@ -1,1 +1,7 @@
 # Belly_Button_Diversity
+
+
+## Purpose
+
+Improbable Beef conducted research using volunteer test subjects in order to identify a species of bacteria that can be used to manufacture synthetic beef. The purpose of this project was to develop an interactive webpage to display test subject information regarding the findings of bacteria found in subjects' belly buttons. The goal was to create impactful visualizations while also displaying important information that can be used for research. The first step was creating a field to filter the test subjects by their unique ID numbers. This populates a demographic information box as well as update the charts that visualized the data. Next, a bar chart was created to display the top ten types of bacteria that were present in the subject's belly button, with features added to describe the type and count of each when hovered over. Then, a scatter plot was included to further visualize the different amounts of each bacteria present. Finally, a gauge was added to visualize the washing frequencies of each subject. This could be used to gain insight on the relationship between washing frequency and amount/type of bacteria present.
+The webpage was intended to allow the test subjects to view the results of the study. Also, if Improbable Beef identifies a species as a candidate to manufacture synthetic beef, the subjects will be able to identify whether that species was found in them.
