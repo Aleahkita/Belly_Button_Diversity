@@ -1,0 +1,33 @@
+.jumbotron {
+    background-image: url(https://cdn.britannica.com/65/225065-050-3FB86B30/microscopic-blue-bacteria.jpg);
+    background-size: cover;
+}
+
+.body {
+    background: #c7a284;
+    color: #fef9f6;
+}
+
+.container h1 {
+    color: white
+}
+
+.container p {
+    color: white
+}
+
+.col-md-2 {
+    background-color: lightskyblue
+}
+
+.col-md-5 {
+    background-color: lightgreen;
+}
+
+.col-md-12 {
+    background-color: lightpink;
+}
+
+.container {
+    background-color: lightsalmon;
+}
